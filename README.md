@@ -78,7 +78,7 @@ This project is open-source and available under the MIT License.
 Contact
 For any inquiries, you can contact:
 
-Email: your-email@example.com
+Email: muhammadbilal.3kc@gmail.com
 GitHub: your-username
 markdown
 Copy code
